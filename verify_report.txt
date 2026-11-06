@@ -1,0 +1,60 @@
+127.0.0.1 - - [06/Nov/2026 12:23:49] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:23:50] "GET /about/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:23:50] "GET /ai-use/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:23:51] "GET /approach/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:23:52] "GET /cases/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:23:53] "GET /contact/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:23:53] "GET /dpa/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:23:54] "GET /global/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:23:55] "GET /industries/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:23:55] "GET /insights/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:23:56] "GET /nda/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:23:57] "GET /privacy/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:23:58] "GET /procurement/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:23:58] "GET /products/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:23:59] "GET /security/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:24:00] "GET /services/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:24:00] "GET /services/automation/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:24:01] "GET /services/data/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:24:02] "GET /services/experience/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:24:03] "GET /services/lab/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:24:03] "GET /services/software/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:24:04] "GET /services/strategy/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:24:05] "GET /sla/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:24:05] "GET /terms/ HTTP/1.1" 200 -
+127.0.0.1 - - [06/Nov/2026 12:24:06] "GET /trust/ HTTP/1.1" 200 -
+Pages checked: 25
+FAILURES (25):
+  x / broken link /.well-known/security.txt
+  x /about/ broken link /.well-known/security.txt
+  x /ai-use/ broken link /.well-known/security.txt
+  x /approach/ broken link /.well-known/security.txt
+  x /cases/ broken link /.well-known/security.txt
+  x /contact/ broken link /.well-known/security.txt
+  x /dpa/ broken link /.well-known/security.txt
+  x /global/ broken link /.well-known/security.txt
+  x /industries/ broken link /.well-known/security.txt
+  x /insights/ broken link /.well-known/security.txt
+  x /nda/ broken link /.well-known/security.txt
+  x /privacy/ broken link /.well-known/security.txt
+  x /procurement/ broken link /.well-known/security.txt
+  x /products/ broken link /.well-known/security.txt
+  x /security/ broken link /.well-known/security.txt
+  x /services/ broken link /.well-known/security.txt
+  x /services/automation/ broken link /.well-known/security.txt
+  x /services/data/ broken link /.well-known/security.txt
+  x /services/experience/ broken link /.well-known/security.txt
+  x /services/lab/ broken link /.well-known/security.txt
+  x /services/software/ broken link /.well-known/security.txt
+  x /services/strategy/ broken link /.well-known/security.txt
+  x /sla/ broken link /.well-known/security.txt
+  x /terms/ broken link /.well-known/security.txt
+  x /trust/ broken link /.well-known/security.txt
+WARNINGS (7):
+  ! no .well-known/security.txt (rebuild with --email)
+  ! CFG.EMAIL is empty (contact form delivers nowhere if EMAIL and FORM_ENDPOINT are both empty)
+  ! CFG.PHONE is empty
+  ! CFG.FORM_ENDPOINT is empty (contact form delivers nowhere if EMAIL and FORM_ENDPOINT are both empty)
+  ! CFG.LINKEDIN is empty
+  ! CFG.CALENDAR is empty
+  ! CFG.WHATSAPP is empty
