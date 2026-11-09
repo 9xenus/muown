@@ -1,0 +1,531 @@
+# 9xenai: full reference
+
+> 9xenai is an AI automation, consulting and software company based in Dhaka, Bangladesh. It builds and operates AI chatbots, WhatsApp assistants, voice agents, workflow automation, enterprise LLM systems and data platforms for organisations in Bangladesh, the Middle East, Europe and other markets. Work starts with a free 30-minute AI opportunity assessment and fixed-scope pilots measured against an agreed KPI. Delivery is in Bangla and English.
+
+## Company
+9xenai, House-234, Road No-21, Block F, Bashundhara R/A, Dhaka-1229, Bangladesh. Email: 9xenaiii@protonmail.com. Website: https://9xenai.com/
+
+## Pricing (indicative, US dollars; each project gets a fixed written quote)
+- AI Workflow Automation: $1,500 to $4,000 implementation fee (CRM automation, lead follow-ups, email automation, internal workflows)
+- AI Chatbot Systems: $1,000 to $3,000 implementation fee (website assistants, customer support, knowledge-base integration, lead qualification)
+- AI Voice Agents: $2,000 to $5,000 implementation fee (phone receptionists, appointment scheduling, missed-call follow-ups, inquiry handling)
+- AI Consultancy and Implementation: $2,500 to $7,500 consulting engagement (readiness audits, process analysis, roadmaps, training and governance)
+- Monthly plans: Essential support $500; Growth automation $1,000; Advanced AI operations $2,000; Enterprise AI partnership $3,000 to $5,000+. All include monitoring, maintenance, optimisation, reporting and a defined support allowance. Substantial new development and usage costs are charged separately.
+- Details: https://9xenai.com/pricing/
+
+## AI Strategy & Consulting
+URL: https://9xenai.com/services/strategy/
+Find out where AI pays back, and where it doesn’t, before you commit budget.
+Built for: Executives and transformation leads deciding where to invest.
+Target outcome: 3 weeks (from first interview to a ranked AI roadmap)
+Included:
+- AI readiness assessment: We score your data, systems, processes and team skills.
+- Business AI roadmap: Ranked use cases with cost, effort and expected return.
+- Transformation consulting: Leadership alignment, change planning and staff training.
+- Implementation strategy: Build, buy or partner decisions and a 12-month delivery plan.
+Works with: Board and steering packs, Business case models, Vendor assessments
+How it runs: Interview teams and leaders > Map the current processes > Score each use case by return > Deliver the ranked roadmap
+Delivery phases:
+- Interviews, process maps and a data review.
+- A scoring workshop and a draft roadmap for leaders to challenge.
+- Final roadmap, business case and support choosing the first pilot.
+Questions:
+- Q: Do we need clean data first? A: Not always. The assessment shows which use cases can start now and which need data work first.
+- Q: Can we use the roadmap with other suppliers? A: Yes. The roadmap is yours and is written to be supplier-neutral.
+
+## AI Automation Solutions
+URL: https://9xenai.com/services/automation/
+Software handles the repetitive work. Your people approve the exceptions.
+Built for: Operations, finance and administration teams with high-volume manual work.
+Target outcome: 60% (of routine task time typically targeted for removal)
+Included:
+- Workflow automation: Approvals, routing and reminders that run on their own.
+- AI agents: Assistants that read, decide and act across your tools.
+- CRM and ERP automation: Records, quotes and orders updated without retyping.
+- Email and document automation: Invoices, contracts and inboxes read, sorted and filed.
+Works with: CRM and ERP systems, Email and shared drives, WhatsApp, Spreadsheets and databases
+How it runs: A document or email arrives > AI reads it and classifies it > Your CRM or ERP is updated > A person reviews only the exceptions
+Delivery phases:
+- Select one process and baseline how long it takes today.
+- Build the automation and run it beside the manual process.
+- Switch over, then add the next process.
+Questions:
+- Q: Will it replace our staff? A: The aim is to remove retyping and chasing so teams spend time on work that needs judgement.
+- Q: Which systems can it connect to? A: Most CRMs, ERPs, email, spreadsheets and messaging tools through standard connectors or APIs.
+
+## AI Customer Experience
+URL: https://9xenai.com/services/experience/
+Answer every customer and lead at once, in Bangla or English, from information you approve.
+Built for: Sales, support and service teams handling high enquiry volumes.
+Target outcome: < 1 min (target first-reply time, day and night)
+Included:
+- Website AI assistants: Answer product and price questions and capture contact details.
+- WhatsApp customer support: Handle common requests and pass complex ones to your team.
+- Voice AI agents: Answer calls, book appointments and log every conversation.
+- Lead generation and qualification: Score each lead and send the best straight to sales.
+Works with: WhatsApp Business, Website chat, Telephony, CRM
+How it runs: A customer sends a message > The assistant answers from approved content > The lead is scored and qualified > Sales receives the lead with the full chat
+Delivery phases:
+- Collect common questions, prices and policies.
+- Launch on one channel with human fallback and review chats.
+- Add channels, voice and lead scoring.
+Questions:
+- Q: Does it invent answers? A: It answers only from approved information and hands over to a person when it isn’t sure.
+- Q: Does it support Bangla? A: Yes. We build and test in Bangla and English, including mixed-language messages.
+
+## AI Data & Intelligence
+URL: https://9xenai.com/services/data/
+Turn scattered files and spreadsheets into one governed view leaders can decide from.
+Built for: Finance, sales and operations leaders who need reliable numbers faster.
+Target outcome: 1 hour (target time for a report that now takes days)
+Included:
+- Business intelligence: Live dashboards for sales, stock, finance and operations.
+- Predictive analytics: Forecasts for demand, churn and cash flow.
+- Reporting automation: Weekly and monthly reports built and sent for you.
+- Data processing: Cleaning, merging and structuring data from many sources.
+Works with: Databases and ERP, Spreadsheets, Cloud storage, BI tools
+How it runs: Connect your data sources > Clean and merge the data > Model trends and forecasts > Publish dashboards and alerts
+Delivery phases:
+- List data sources and the questions leaders ask.
+- A first dashboard on real data, tested with managers.
+- Forecasts, alerts and automatic reports.
+Questions:
+- Q: Our data is messy. Is that a problem? A: It’s normal. Cleaning it is part of the first phase.
+- Q: Where is the data stored? A: Where you choose: your cloud, your own servers or a local provider, agreed before we begin.
+
+## AI Software Development
+URL: https://9xenai.com/services/software/
+When off-the-shelf tools don’t fit, we design and build the one that does.
+Built for: Organisations with a process that packaged software does not support.
+Target outcome: 6 weeks (typical time to a first working release)
+Included:
+- Custom AI applications: Tools built around your process, with AI at the core.
+- AI-powered web platforms: Customer portals, marketplaces and dashboards.
+- Internal business tools: Replace spreadsheets and chat threads with a proper system.
+- Enterprise AI integrations: Connect AI safely to the systems you already run.
+Works with: Web and mobile, APIs, Identity and single sign-on, Cloud hosting
+How it runs: Agree the scope and the KPI > Design the screens and data > Build and integrate with your systems > Launch, train staff and support
+Delivery phases:
+- Workshop, scope and a clickable design.
+- Build in two-week cycles with a demo at the end of each.
+- Launch, training and a support plan.
+Questions:
+- Q: Who owns the code? A: You do. The agreement states it clearly and we hand over full documentation.
+- Q: Can you take over an unfinished project? A: Yes. We review it first and advise honestly whether to continue or restart.
+
+## Innovation Lab & Training
+URL: https://9xenai.com/services/lab/
+Where new ideas become prototypes, and where your teams learn to run them.
+Built for: Leadership teams and departments starting their AI capability.
+Target outcome: 10 days (target from idea to working prototype)
+Included:
+- Leadership and staff workshops: Practical sessions on using AI safely at work.
+- Rapid prototypes: A testable version before you commit budget.
+- Prompt and agent playbooks: Written guides your team can reuse and extend.
+- Pilot-to-product research: Checks whether a pilot can grow into a product.
+Works with: Workshops in Bangla or English, Playbooks, Prototype demos
+How it runs: Run a hands-on workshop > Build a rapid prototype > Test it with your staff > Hand over the playbook
+Delivery phases:
+- A workshop and a shortlist of ideas.
+- Prototype the best idea and test it with real users.
+- Playbook, training and a decision on next steps.
+Questions:
+- Q: Do attendees need technical skills? A: No. Sessions are built for managers and operations staff.
+- Q: Can it run in Bangla? A: Yes. Workshops and materials can be delivered in Bangla, English or both.
+
+## WhatsApp & Chatbot Solutions
+URL: https://9xenai.com/services/chatbots/
+A chatbot that answers, sells and books on WhatsApp, Messenger and your website, 24 hours a day.
+Built for: Shops, clinics, agencies and service teams whose customers already message them on WhatsApp.
+Target outcome: 7 days (typical time to a first live WhatsApp chatbot)
+Included:
+- WhatsApp Business chatbot: Official WhatsApp Business API bot that answers FAQs, shares prices and hands over to your team.
+- Order, booking and payment bots: Take orders, book appointments and send payment links inside the chat.
+- Messenger, Instagram and website bots: One brain answering on every channel your customers use.
+- Broadcasts and follow-up automation: Approved templates for offers, reminders and abandoned-order nudges.
+Works with: WhatsApp Business API, Facebook Messenger, Instagram DM, Website chat, CRM and Google Sheets
+How it runs: A customer messages your WhatsApp number > The bot answers in Bangla or English from approved content > Orders, bookings or leads are captured > Your team takes over complex chats with the full history
+Delivery phases:
+- Collect FAQs, price lists and tone of voice; apply for the WhatsApp Business API.
+- Build and test the bot with real questions, with human hand-over on every flow.
+- Go live, review chats weekly and add orders, payments and broadcasts.
+Questions:
+- Q: Do I need the official WhatsApp Business API? A: For a real chatbot, yes. We handle the application, number setup and message templates for you.
+- Q: Can the bot reply in Bangla and Banglish? A: Yes. We test with Bangla, English and mixed-language messages including Romanised Bangla.
+- Q: Can a person take over the chat? A: Always. The bot passes the conversation, with its history, to your team when it is unsure or the customer asks.
+
+## AI Content & Marketing
+URL: https://9xenai.com/services/content/
+Publish more, in Bangla and English, without hiring a bigger team.
+Built for: Marketing teams, agencies and founders who need steady content and campaigns.
+Target outcome: 5x (target increase in content output with the same team)
+Included:
+- AI content generation: Product descriptions, blog posts, captions and email copy in your brand voice.
+- Social media automation: Scheduling, reposting and reply drafts across Facebook, Instagram and LinkedIn.
+- Ad creative and copy testing: Variants of headlines and images tested against your conversion goal.
+- SEO and AI-search optimisation: Pages structured so search engines and AI assistants can quote you.
+Works with: Facebook and Instagram, LinkedIn, WordPress and Shopify, Google Analytics
+How it runs: Capture your brand voice and rules > Generate drafts at volume > A person reviews and approves > Publish and measure results
+Delivery phases:
+- Brand voice guide, content audit and a sample batch.
+- Draft, review and publish workflow running on one channel.
+- More channels, ad variants and monthly performance reports.
+Questions:
+- Q: Will content sound robotic? A: Drafts follow a voice guide built from your own material and a person approves everything before it is published.
+- Q: Can it write in Bangla? A: Yes. We write and review in Bangla and English, and check local phrasing with native speakers.
+
+## AI Vision & Document Intelligence
+URL: https://9xenai.com/services/vision/
+Read documents, images and video automatically, and flag only what needs a person.
+Built for: Finance, logistics, HR and manufacturing teams buried in paperwork or visual checks.
+Target outcome: 90% (target reduction in manual data entry from documents)
+Included:
+- OCR and document extraction: Pull fields from invoices, NID cards, forms and bank statements, including Bangla text.
+- Image classification and quality inspection: Spot defects, count items and verify photos at scale.
+- Video and CCTV analytics: Count people, detect events and trigger alerts.
+- Identity and form verification: Match documents against records and highlight mismatches.
+Works with: Scanners and phone cameras, Shared drives, ERP and accounting, CCTV and IP cameras
+How it runs: A document or image arrives > AI reads and extracts the data > Values are checked against your records > Exceptions go to a person, the rest is filed
+Delivery phases:
+- Collect sample documents and define the fields to extract.
+- Train and test on your real files, side by side with manual entry.
+- Switch over and connect to your accounting or ERP system.
+Questions:
+- Q: Does it read Bangla documents? A: Yes. We test extraction on your own Bangla and English documents before committing.
+- Q: What if the AI is unsure? A: Low-confidence fields are flagged and sent to a person for review rather than guessed.
+
+## Enterprise LLM & Generative AI
+URL: https://9xenai.com/services/llm/
+Private, governed language-model assistants that answer from your own documents, systems and policies.
+Built for: Enterprises, banks and large teams that want ChatGPT-style productivity without exposing company data.
+Target outcome: 4 weeks (typical time to a secure internal assistant on real data)
+Included:
+- Private LLM deployment: Run open-weight or hosted models inside your cloud, your servers or a local provider.
+- RAG knowledge assistants: Search and answer across policies, contracts, manuals and tickets, with source citations.
+- Enterprise copilots and agents: Assistants that draft, decide and act in your CRM, ERP, email and ticketing tools, with approvals.
+- Prompt engineering and evaluation: Tested prompts, guardrails and automatic quality scoring before and after launch.
+- Model selection and cost optimisation: Pick the right model for each task and cut token spend without losing quality.
+Works with: Open-weight and hosted LLMs, Vector databases, SharePoint, Drive and wikis, CRM, ERP and ticketing, Single sign-on
+How it runs: Connect and secure your documents > Index them and add access rules > Test answers against a gold question set > Launch with citations, logging and review
+Delivery phases:
+- Choose use cases, data sources and access rules; set the evaluation questions.
+- Build the assistant, test accuracy and safety, and tune with real users.
+- Roll out, monitor quality and cost, and add new data sources and agents.
+Questions:
+- Q: Will our data be used to train public models? A: No. We design so your data stays in the environment you choose and is not used to train third-party models. This is agreed in writing.
+- Q: How do you stop the model making things up? A: Answers are grounded in your documents with citations, low-confidence cases are flagged, and we measure accuracy on a test set before launch.
+- Q: Can it respect who is allowed to see what? A: Yes. Retrieval follows your existing permissions, so people only get answers from documents they may already access.
+
+## Custom Model Training & Fine-tuning
+URL: https://9xenai.com/services/training/
+Models trained on your data and language, when a general model is not accurate or cheap enough.
+Built for: Organisations with proprietary data, strict accuracy needs or a language and domain that general models handle poorly.
+Target outcome: 6 weeks (typical time from data audit to a tested custom model)
+Included:
+- LLM fine-tuning: Adapt a model to your terminology, tone and tasks using your approved data.
+- Bangla and domain language models: Models and embeddings tuned for Bangla, Banglish and your industry vocabulary.
+- Classical machine learning: Forecasting, scoring, churn and fraud models on tabular business data.
+- Data labelling and synthetic data: Annotation workflows and safe synthetic data to improve training sets.
+- Benchmarking and model evaluation: Side-by-side tests against general models, with accuracy, cost and speed reported.
+Works with: Your data warehouse and files, Annotation tools, GPU cloud or on-premise GPUs, Experiment tracking
+How it runs: Audit the data and define the target metric > Prepare, label and split the data > Train and compare against a general model > Deploy the winner with monitoring
+Delivery phases:
+- Data audit, success metric and a baseline using an off-the-shelf model.
+- Prepare data and train candidate models, evaluated on held-out data.
+- Deploy the chosen model, hand over the pipeline and monitor drift.
+Questions:
+- Q: Do we really need to train our own model? A: Often not. We first test a general model with good prompts and retrieval. We recommend training only when the numbers show it is worth the cost.
+- Q: How much data is needed? A: It depends on the task. Fine-tuning can work with hundreds to a few thousand good examples; we tell you honestly after the data audit.
+- Q: Who owns the trained model? A: You do. Model weights, training code and documentation are handed over, as set out in the agreement.
+
+## Custom Enterprise AI Systems
+URL: https://9xenai.com/services/custom/
+End-to-end AI products designed around your process, built to enterprise standards and integrated with your core systems.
+Built for: Large organisations and product companies building AI into their operations or customer offering.
+Target outcome: 12 weeks (typical time to a production-grade first release)
+Included:
+- Bespoke AI platforms: Multi-team platforms with workflows, approvals, dashboards and APIs.
+- Multi-agent workflow systems: Specialist agents that collaborate on long, multi-step business processes.
+- Core-system integration: Safe connections to ERP, core banking, HRMS, billing and legacy databases.
+- White-label AI products: AI features and products packaged under your own brand for your customers.
+- Architecture and technical due diligence: Independent review of an existing AI build, vendor or proposal.
+Works with: ERP and core banking, Identity and single sign-on, APIs and message queues, Cloud and on-premise hosting
+How it runs: Agree requirements, KPIs and architecture > Build in two-week cycles with demos > Integrate, secure and load-test > Launch, train staff and hand over
+Delivery phases:
+- Discovery, architecture, security review and a fixed-scope plan.
+- Iterative build with demos, user testing and integration.
+- Hardening, load tests, launch and a support plan.
+Questions:
+- Q: How do you handle our security review? A: We provide architecture documents, complete your supplier questionnaire and can work under NDA and your access rules from day one.
+- Q: Can your team work with ours? A: Yes. We can deliver end to end or embed alongside your engineers and hand over documentation and training.
+
+## AI Infrastructure & MLOps
+URL: https://9xenai.com/services/platform/
+The pipelines, hosting and monitoring that keep AI fast, reliable and affordable in production.
+Built for: Engineering and IT teams moving AI from pilot to production.
+Target outcome: 99.9% (target availability for production AI services)
+Included:
+- Model deployment and APIs: Scalable serving for LLMs and ML models, on cloud, on-premise or hybrid.
+- MLOps pipelines: Automated training, testing, versioning and release of models.
+- Monitoring and drift detection: Dashboards and alerts for accuracy, latency, cost and data drift.
+- GPU and cloud cost optimisation: Right-sizing, caching and routing so inference costs stay predictable.
+- Data engineering for AI: Pipelines that deliver clean, governed data to models and analysts.
+Works with: Cloud providers and Kubernetes, CI/CD, Observability tools, Data warehouses and lakes
+How it runs: Assess the current stack and costs > Design the target architecture > Automate release and monitoring > Tune cost and reliability
+Delivery phases:
+- Review the stack, usage and costs; agree reliability targets.
+- Build pipelines, monitoring and the deployment path for one model.
+- Roll out to all models and set cost and quality alerts.
+Questions:
+- Q: Can you run AI inside our own data centre? A: Yes. We design cloud, on-premise and hybrid deployments depending on your data and regulation needs.
+- Q: Are you tied to one cloud or model vendor? A: No. Designs are vendor-neutral so you can switch models or hosting later.
+
+## Managed AI Support & Operations
+URL: https://9xenai.com/services/support/
+We run, monitor and improve your AI after launch, under written service levels.
+Built for: Enterprises that need dependable AI operations without building a large in-house team.
+Target outcome: 24/7 (monitoring with severity-based response times)
+Included:
+- 24/7 monitoring and incident response: Alerts, triage and fixes with named escalation levels.
+- Model and prompt maintenance: Regular tuning, retraining and regression tests as your data and rules change.
+- Service desk and user support: Help for staff and customers using your AI tools, with a tracked ticket queue.
+- Monthly service reviews: Reports on quality, cost, risk and incidents, with an improvement plan.
+- Dedicated AI team on retainer: Engineers and analysts you can call on for new use cases and upgrades.
+Works with: Ticketing and on-call tools, Monitoring dashboards, Your cloud accounts, Reporting packs
+How it runs: Agree service levels and escalation > Take over monitoring and runbooks > Resolve incidents and tune models > Review monthly and improve
+Delivery phases:
+- Document the system, set service levels and handover access.
+- Run monitoring, support and a monthly review with your team.
+- Improve continuously and add new use cases on the same retainer.
+Questions:
+- Q: What response times do you commit to? A: Response targets depend on severity and your plan. They are set out in the service levels and credits described on our service levels page.
+- Q: Can you support systems you did not build? A: Yes, after a short technical review to understand the system and its risks.
+
+## AI Governance, Risk & Compliance
+URL: https://9xenai.com/services/governance/
+Put the policies, controls and audit trails in place so AI can be approved, scaled and trusted.
+Built for: Risk, compliance, legal and IT leaders approving AI use across the organisation.
+Target outcome: 4 weeks (typical time to a working AI governance framework)
+Included:
+- AI policy and governance framework: Roles, approval steps and acceptable-use rules written for your organisation.
+- AI risk assessment: Review of data, bias, privacy, security and operational risk for each use case.
+- Security testing and red-teaming: Tests for prompt injection, data leakage and misuse before launch.
+- Audit logs and human-in-the-loop controls: Traceable decisions and approval steps for high-risk actions.
+- Staff awareness and training: Practical training on safe and approved use of AI tools.
+Works with: Existing risk registers, Identity and access management, Logging and SIEM tools, Regulator and customer questionnaires
+How it runs: Inventory current and planned AI use > Assess risks by use case > Set controls, policy and logging > Train staff and review quarterly
+Delivery phases:
+- Inventory AI use and map it to your policies and regulators.
+- Assess risks and design controls, logging and approvals.
+- Roll out the policy, train staff and set a review schedule.
+Questions:
+- Q: Are you a certified auditor? A: No. We help you design and operate controls and prepare evidence. Formal certification or legal advice comes from your auditor or counsel.
+- Q: Does this slow down AI projects? A: Done well it speeds them up, because use cases follow a clear approval path instead of waiting on case-by-case debates.
+
+## Agentic AI & Multi-Agent Systems
+URL: https://9xenai.com/services/agents/
+Teams of specialised AI agents that plan, use your tools and hand risky steps to a person.
+Built for: Operations and technology leaders whose work spans several systems and steps.
+Target outcome: 1 process (end to end, run by agents with human approval points)
+Included:
+- Single-task agents: Agents that read a request, use your tools and finish a defined task.
+- Multi-agent workflows: Researcher, drafter and checker agents that work in sequence on one process.
+- Tool and API integration: Safe, permissioned access to your CRM, ERP, email and databases.
+- Human approval and guardrails: Spending limits, action limits and sign-off for anything with financial or customer impact.
+Works with: CRM and ERP, Email and calendars, Databases, Ticketing tools, Model APIs or private models
+How it runs: A request or event arrives > A planner agent splits it into steps > Specialist agents act through approved tools > A person approves any high-risk action
+Delivery phases:
+- Choose one multi-step process and map every decision and system it touches.
+- Build the agents, test against real cases and set action limits.
+- Run with approvals on, review the activity log weekly, then widen the limits.
+Questions:
+- Q: Can agents act without approval? A: Only for low-risk actions you list in advance. Anything with financial, legal or customer impact waits for a named approver.
+- Q: How do you stop agents going wrong? A: Limited tool permissions, spending caps, an evaluation set run before every release and a full log of every action.
+
+## AI Voice Agents & Call Automation
+URL: https://9xenai.com/services/voice/
+Phone agents that answer, book and follow up, in Bangla and English, with every call logged.
+Built for: Clinics, real estate teams, service desks and contact centres that miss calls.
+Target outcome: 24/7 (target call coverage, with hand-over to your team)
+Included:
+- AI phone receptionist: Answers, identifies the caller's need and routes or resolves it.
+- Appointment scheduling: Books, moves and confirms slots directly in your calendar.
+- Missed-call follow-up: Calls or messages back every missed enquiry within minutes.
+- Call summaries and analytics: Transcripts, outcomes and sentiment sent to your CRM.
+Works with: Telephony and SIP, Calendars, CRM, WhatsApp
+How it runs: A customer calls > The agent understands the request in Bangla or English > It books, answers or collects details > A summary lands in your CRM, or the call is passed to a person
+Delivery phases:
+- List the top call reasons, scripts and escalation rules.
+- Pilot on one number with a person on standby and review recordings.
+- Add numbers, languages and calendar or CRM write-back.
+Questions:
+- Q: Does it sound robotic? A: We tune voice, pace and wording on real calls, and the agent says it is automated and offers a person at any time.
+- Q: Are calls recorded? A: Only if you choose, with consent wording and a retention period agreed in advance.
+
+## AI Sales, CRM & Lead Intelligence
+URL: https://9xenai.com/services/sales/
+Find, score and follow up leads faster, so sales time goes to conversations that can close.
+Built for: Sales and marketing teams with more enquiries than they can follow up.
+Target outcome: 5 min (target time to first response on a new lead)
+Included:
+- Lead scoring and routing: Rank enquiries by fit and intent and send the best to the right person.
+- CRM enrichment and hygiene: Fill gaps, merge duplicates and keep records current.
+- Follow-up sequences: Personalised emails and messages that stop when the lead replies.
+- Pipeline forecasting: Weekly forecasts with the deals most at risk flagged.
+Works with: Zoho CRM, HubSpot, Salesforce, Email, WhatsApp
+How it runs: A lead arrives from any channel > AI enriches and scores it > The right owner is alerted with context > Follow-ups run until the lead replies
+Delivery phases:
+- Map lead sources, the CRM and today's follow-up habits.
+- Score and route leads on one channel and compare with the manual baseline.
+- Add sequences and forecasting, then review conversion monthly.
+Questions:
+- Q: Which CRMs do you work with? A: Most major CRMs through their APIs. We confirm yours in the assessment.
+- Q: Will it message leads without review? A: Templates are approved by you first, and messages to new contacts can wait for sign-off.
+
+## AI Risk, Fraud & Anomaly Detection
+URL: https://9xenai.com/services/risk/
+Spot unusual transactions, documents and behaviour early, and explain why each was flagged.
+Built for: Finance, compliance and operations teams reviewing high transaction volumes.
+Target outcome: Daily (target review cadence instead of month-end sampling)
+Included:
+- Transaction anomaly detection: Flag outliers in payments, claims, expenses and orders.
+- Document fraud checks: Compare invoices, IDs and statements for inconsistencies.
+- Risk scoring: Rank cases for review with a plain-language reason for each.
+- Alert triage: Group alerts and cut false positives so analysts review what matters.
+Works with: ERP and finance systems, Payment data, Case management tools, Data warehouse
+How it runs: Transactions and documents are collected > Models score each item > Flags come with a clear reason > Analysts confirm or clear each case and the model learns
+Delivery phases:
+- Define what counts as risk and gather labelled historical cases.
+- Run the model beside your current checks and compare findings.
+- Move to daily review with analyst feedback built in.
+Questions:
+- Q: Can it make decisions on its own? A: It ranks and explains. A named reviewer decides on any case that affects a customer or a payment.
+- Q: Do you need a lot of historical data? A: It depends on the use case. We say in the assessment whether your data is enough and what to collect if it is not.
+
+## AI Security & Red-Teaming
+URL: https://9xenai.com/services/aisec/
+Test your AI systems the way an attacker would, before customers or auditors do.
+Built for: Security, risk and product leaders about to launch or already running AI systems.
+Target outcome: OWASP LLM (Top 10 risks covered in every test plan)
+Included:
+- LLM red-team testing: Prompt injection, data leakage and jailbreak attempts against your assistants.
+- Agent and tool permission review: Checks that agents can only do what they should.
+- Data-flow and vendor review: Where data goes, who processes it and how long it is kept.
+- Fix plan and retest: Ranked findings, remediation advice and a retest after fixes.
+Works with: Your AI applications, Model providers, Identity and access tools, Logging and monitoring
+How it runs: Agree scope and rules of engagement > Test the system with attack scenarios > Report findings by severity > Retest after your team applies fixes
+Delivery phases:
+- Scope the systems, data and rules of engagement under NDA.
+- Test, then deliver a ranked written report and a walkthrough.
+- Support fixes and retest, then agree a recurring test schedule.
+Questions:
+- Q: Is testing safe for production systems? A: We agree scope and limits in writing first and prefer a staging copy for destructive tests.
+- Q: Is this a certification? A: No. It is a security assessment. Certification comes from an accredited auditor.
+
+## Data Engineering & AI-Ready Platforms
+URL: https://9xenai.com/services/dataeng/
+Pipelines and a governed data foundation, so every AI project starts from trustworthy data.
+Built for: Organisations whose data sits in many systems and spreadsheets.
+Target outcome: 1 source (of truth for the numbers leaders and models use)
+Included:
+- Data pipelines: Automated, monitored loading from your systems into one store.
+- Warehouse and lakehouse design: A structure that supports reporting and AI on the same data.
+- Data quality and lineage: Checks, owners and a record of where every figure came from.
+- Vector stores and knowledge indexes: Searchable indexes that let assistants answer from your documents.
+Works with: Databases and ERP, Cloud warehouses, Spreadsheets and files, APIs, BI tools
+How it runs: Inventory your data sources > Build monitored pipelines > Clean, model and document the data > Serve dashboards and AI applications from one store
+Delivery phases:
+- Catalogue sources, owners and the questions the data must answer.
+- Build pipelines and quality checks for the first two sources.
+- Add sources, lineage and access rules, then connect AI use cases.
+Questions:
+- Q: Do we need a new platform? A: Often not. We reuse what you have where it works and say plainly when it does not.
+- Q: Where will the data live? A: Where you choose: your cloud, your servers or a local provider, agreed before work begins.
+
+## AI for HR & Talent Operations
+URL: https://9xenai.com/services/hr/
+Cut paperwork in hiring and onboarding while people keep every decision.
+Built for: HR and people teams handling high volumes of applications and requests.
+Target outcome: 50% (target reduction in screening and scheduling time)
+Included:
+- CV screening support: Summaries and shortlists against your criteria, reviewed by a recruiter.
+- Interview scheduling: Automatic booking across calendars and time zones.
+- Employee help assistant: Answers policy and leave questions from approved documents.
+- Onboarding workflows: Accounts, documents and checklists started automatically.
+Works with: HR systems, Email and calendars, Document stores, Job boards
+How it runs: Applications and requests arrive > AI summarises and sorts them against your criteria > A recruiter or HR partner reviews and decides > Scheduling and onboarding steps run automatically
+Delivery phases:
+- Choose one workflow and write down the criteria and rules.
+- Run beside the manual process and test for fairness with sample cases.
+- Add workflows and review outcomes monthly.
+Questions:
+- Q: Does AI decide who is hired? A: No. It prepares summaries. People make every hiring decision, and we test the criteria for unfair patterns.
+- Q: Is employee data safe? A: Access is role-based and logged, and data stays in the location you choose.
+
+## Bangla & Multilingual Language AI
+URL: https://9xenai.com/services/language/
+Assistants, search and document tools that handle Bangla, Banglish and English properly.
+Built for: Organisations serving Bangla-speaking customers or processing Bangla documents.
+Target outcome: Bangla (and mixed-language input tested in every assistant)
+Included:
+- Bangla chat and voice: Assistants that understand Bangla, Romanised Bangla and mixed messages.
+- Translation and localisation: Business content and documents between Bangla and English, reviewed by people.
+- Bangla document search: Search and question answering across Bangla files.
+- Language quality testing: Test sets and scoring that measure accuracy in your own domain.
+Works with: WhatsApp, Website chat, Document stores, Call recordings
+How it runs: Collect real Bangla and mixed-language examples > Tune and test the language layer > Score accuracy on your own test set > Release and monitor quality monthly
+Delivery phases:
+- Gather real messages and documents and define the quality target.
+- Build and test with native speakers and your own examples.
+- Release, monitor and improve with monthly quality reports.
+Questions:
+- Q: Can AI handle Banglish? A: Yes, with testing. We build the test set from your own conversations so the result reflects real usage.
+- Q: Do you cover other languages? A: Other languages are scoped per project.
+
+## AI Operations & Supply Chain Optimisation
+URL: https://9xenai.com/services/ops/
+Forecast demand, plan stock and spot delays before they cost you money.
+Built for: Retail, manufacturing, distribution and logistics teams carrying stock.
+Target outcome: 10 to 20% (target reduction in stock-outs and excess stock)
+Included:
+- Demand forecasting: Item-level forecasts that account for season, price and promotions.
+- Inventory planning: Reorder points and quantities that balance cost and availability.
+- Delivery and route insight: Delay alerts and planning support for distribution.
+- Supplier and order tracking: Automatic status updates and exception alerts.
+Works with: ERP and inventory systems, Spreadsheets, Warehouse systems, Supplier portals
+How it runs: Sales, stock and order data are gathered > Models forecast demand > Reorder and delay alerts are raised > Planners approve and adjust
+Delivery phases:
+- Gather 12 to 24 months of sales and stock data and agree targets.
+- Forecast a product group, compare with your current method and tune.
+- Extend to all lines and automate weekly alerts.
+Questions:
+- Q: How much history do we need? A: Usually 12 to 24 months. We confirm in the assessment.
+- Q: Will it replace our planners? A: No. It gives planners better forecasts and alerts. They approve every order.
+
+## AI Finance & Back-Office Automation
+URL: https://9xenai.com/services/finance/
+Invoices, reconciliations and reports prepared automatically, with exceptions routed to your team.
+Built for: Finance, accounting and procurement teams with high document volumes.
+Target outcome: Days to hours (target time to close a routine reporting cycle)
+Included:
+- Accounts payable automation: Read invoices, match to orders and queue them for approval.
+- Bank and ledger reconciliation: Match transactions automatically and flag differences.
+- Expense and receipt processing: Capture, categorise and check claims against policy.
+- Management reporting: Monthly packs drafted with commentary for finance review.
+Works with: Accounting and ERP systems, Bank feeds, Email inboxes, Approval tools
+How it runs: Invoices and statements arrive > AI reads and matches them > Exceptions are routed to the right person > Approved items post to your ledger
+Delivery phases:
+- Pick one document type and baseline cost and error rate.
+- Run beside manual processing and review every exception.
+- Switch over and add the next document type.
+Questions:
+- Q: Can it post to our ledger? A: Yes, through your accounting system's connectors or API, with approvals as you require.
+- Q: How accurate is extraction? A: We measure it on your own documents during the pilot and report the figure before go-live.
+
+## General FAQ
+- Q: How long does a first project take? A: A typical pilot takes four to six weeks after a two to three week assessment. Larger integrations take longer, and we agree timelines in the proposal.
+- Q: Do we need to move our data to the cloud? A: No. We can work in your cloud, on your own servers or with a local provider. The choice is yours and is agreed before we begin.
+- Q: How do you price projects? A: Pilots are fixed-scope and fixed-price. Ongoing services are a monthly fee. Larger programmes are quoted by phase, with a decision gate between phases.
+- Q: Will the AI make mistakes? A: Sometimes, which is why we design for it. Answers come from approved sources, risky decisions go to a person, and quality is monitored every month.
+- Q: Can the assistants work in Bangla? A: Yes. We build and test assistants and documents in Bangla and English, including mixed-language messages.
+- Q: Who owns what you build? A: You do. Code, configurations, prompts and documentation are handed over, and designs avoid locking you to one supplier.

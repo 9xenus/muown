@@ -1,0 +1,52 @@
+# 9xenai
+
+> 9xenai is an AI automation, consulting and software company based in Dhaka, Bangladesh. It builds and operates AI chatbots, WhatsApp assistants, voice agents, workflow automation, enterprise LLM systems and data platforms for organisations in Bangladesh, the Middle East, Europe and other markets. Work starts with a free 30-minute AI opportunity assessment and fixed-scope pilots measured against an agreed KPI. Delivery is in Bangla and English.
+
+## Key pages
+- [Services](https://9xenai.com/services/): 25 AI services across automation, chatbots, voice agents, LLMs, data, security and managed support
+- [Pricing](https://9xenai.com/pricing/): Indicative US-dollar prices for builds and monthly plans
+- [Enterprise assurance](https://9xenai.com/enterprise/): Governance, testing, roles, architecture and hand-over for enterprise buyers
+- [Industries](https://9xenai.com/industries/): Banking, real estate, healthcare, manufacturing and retail use cases
+- [How we deliver](https://9xenai.com/approach/): Assess, pilot, scale and operate
+- [Trust centre](https://9xenai.com/security/): Security controls, AI governance and evidence for reviewers
+- [Service levels](https://9xenai.com/sla/): Managed-service plans, response targets and escalation
+- [Procurement pack](https://9xenai.com/procurement/): NDA, DPA, MSA, questionnaires and exit terms
+- [Global delivery](https://9xenai.com/global/): Regions served and working-hour overlap
+- [About](https://9xenai.com/about/): Who 9xenai is
+- [Contact](https://9xenai.com/contact/): Book a free 30-minute AI opportunity assessment
+
+## AI services
+- [AI Strategy & Consulting](https://9xenai.com/services/strategy/): Find out where AI pays back, and where it doesn’t, before you commit budget.
+- [AI Automation Solutions](https://9xenai.com/services/automation/): Software handles the repetitive work. Your people approve the exceptions.
+- [AI Customer Experience](https://9xenai.com/services/experience/): Answer every customer and lead at once, in Bangla or English, from information you approve.
+- [AI Data & Intelligence](https://9xenai.com/services/data/): Turn scattered files and spreadsheets into one governed view leaders can decide from.
+- [AI Software Development](https://9xenai.com/services/software/): When off-the-shelf tools don’t fit, we design and build the one that does.
+- [Innovation Lab & Training](https://9xenai.com/services/lab/): Where new ideas become prototypes, and where your teams learn to run them.
+- [WhatsApp & Chatbot Solutions](https://9xenai.com/services/chatbots/): A chatbot that answers, sells and books on WhatsApp, Messenger and your website, 24 hours a day.
+- [AI Content & Marketing](https://9xenai.com/services/content/): Publish more, in Bangla and English, without hiring a bigger team.
+- [AI Vision & Document Intelligence](https://9xenai.com/services/vision/): Read documents, images and video automatically, and flag only what needs a person.
+- [Enterprise LLM & Generative AI](https://9xenai.com/services/llm/): Private, governed language-model assistants that answer from your own documents, systems and policies.
+- [Custom Model Training & Fine-tuning](https://9xenai.com/services/training/): Models trained on your data and language, when a general model is not accurate or cheap enough.
+- [Custom Enterprise AI Systems](https://9xenai.com/services/custom/): End-to-end AI products designed around your process, built to enterprise standards and integrated with your core systems.
+- [AI Infrastructure & MLOps](https://9xenai.com/services/platform/): The pipelines, hosting and monitoring that keep AI fast, reliable and affordable in production.
+- [Managed AI Support & Operations](https://9xenai.com/services/support/): We run, monitor and improve your AI after launch, under written service levels.
+- [AI Governance, Risk & Compliance](https://9xenai.com/services/governance/): Put the policies, controls and audit trails in place so AI can be approved, scaled and trusted.
+- [Agentic AI & Multi-Agent Systems](https://9xenai.com/services/agents/): Teams of specialised AI agents that plan, use your tools and hand risky steps to a person.
+- [AI Voice Agents & Call Automation](https://9xenai.com/services/voice/): Phone agents that answer, book and follow up, in Bangla and English, with every call logged.
+- [AI Sales, CRM & Lead Intelligence](https://9xenai.com/services/sales/): Find, score and follow up leads faster, so sales time goes to conversations that can close.
+- [AI Risk, Fraud & Anomaly Detection](https://9xenai.com/services/risk/): Spot unusual transactions, documents and behaviour early, and explain why each was flagged.
+- [AI Security & Red-Teaming](https://9xenai.com/services/aisec/): Test your AI systems the way an attacker would, before customers or auditors do.
+- [Data Engineering & AI-Ready Platforms](https://9xenai.com/services/dataeng/): Pipelines and a governed data foundation, so every AI project starts from trustworthy data.
+- [AI for HR & Talent Operations](https://9xenai.com/services/hr/): Cut paperwork in hiring and onboarding while people keep every decision.
+- [Bangla & Multilingual Language AI](https://9xenai.com/services/language/): Assistants, search and document tools that handle Bangla, Banglish and English properly.
+- [AI Operations & Supply Chain Optimisation](https://9xenai.com/services/ops/): Forecast demand, plan stock and spot delays before they cost you money.
+- [AI Finance & Back-Office Automation](https://9xenai.com/services/finance/): Invoices, reconciliations and reports prepared automatically, with exceptions routed to your team.
+
+## Company facts
+- Location: House-234, Road No-21, Block F, Bashundhara R/A, Dhaka-1229, Bangladesh
+- Email: 9xenaiii@protonmail.com
+- Pricing currency: US dollars; fixed written quote after assessment
+- Languages: Bangla and English
+
+## Full content
+- [llms-full.txt](https://9xenai.com/llms-full.txt): all services, FAQs and pricing in one file
