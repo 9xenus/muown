@@ -13,7 +13,10 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-User-agent: Claude-Web
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
 Allow: /
 
 User-agent: PerplexityBot
@@ -25,10 +28,13 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-User-agent: Bingbot
-Allow: /
-
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://9xenai.com/sitemap.xml
+User-agent: Bingbot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+Sitemap: https://9xenai.online/sitemap.xml
