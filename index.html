@@ -1931,4 +1931,52 @@ if("IntersectionObserver"in window){var ids=["pzBuilds","pzPlans","pzEst","pzFit
 </script>
 
 
+<style>
+/* full-page translation (Google Website Translator, hidden UI) */
+body{top:0!important;position:static!important}
+.goog-te-banner-frame,.goog-te-banner-frame.skiptranslate,iframe.skiptranslate,#goog-gt-tt,.goog-tooltip,.goog-te-balloon-frame,.VIpgJd-ZVi9od-aZ2wEe-wOHMyf,.VIpgJd-ZVi9od-ORHb-OEVmcd{display:none!important}
+.goog-text-highlight{background:none!important;box-shadow:none!important}
+#google_translate_element{position:absolute;left:-9999px;top:0;width:1px;height:1px;overflow:hidden}
+font{vertical-align:inherit}
+</style>
+<div id="google_translate_element" class="notranslate" translate="no"></div>
+<script>
+(function(){
+var MAP={bn:"bn",zh:"zh-CN",ar:"ar",es:"es",ur:"ur",hi:"hi",nl:"nl"};
+function getC(){var m=document.cookie.match(/(?:^|;\s*)googtrans=([^;]*)/);return m?decodeURIComponent(m[1]):""}
+function setC(v){
+  var h=location.hostname,ds=[null];
+  if(h.indexOf(".")>0&&/[a-z]/i.test(h)){ds.push(h,"."+h);var p=h.split(".");if(p.length>2)ds.push("."+p.slice(-2).join("."))}
+  ds.forEach(function(d){document.cookie="googtrans="+(v||"")+"; path=/"+(d?"; domain="+d:"")+(v?"":"; expires=Thu, 01 Jan 1970 00:00:00 GMT")})
+}
+function want(){var l="en";try{l=localStorage.getItem("lang9x")||"en"}catch(e){}var s=document.getElementById("lang");if(s&&s.value)l=s.value;return l}
+function target(l){return MAP[l]?"/en/"+MAP[l]:""}
+var loaded=false;
+function load(){
+  if(loaded)return;loaded=true;
+  window.gtInit=function(){try{new google.translate.TranslateElement({pageLanguage:"en",includedLanguages:Object.keys(MAP).map(function(k){return MAP[k]}).join(","),autoDisplay:false},"google_translate_element")}catch(e){}};
+  var s=document.createElement("script");s.src="https://translate.google.com/translate_a/element.js?cb=gtInit";s.async=true;document.head.appendChild(s);
+}
+function retranslate(){
+  var c=document.querySelector(".goog-te-combo"),l=want();if(!c||!MAP[l])return;
+  c.value=MAP[l];c.dispatchEvent(new Event("change"));
+}
+function sync(l){
+  var t=target(l);
+  if(getC()===t){load();return}
+  var key="gt9x-"+l,tries=0;try{tries=+sessionStorage.getItem(key)||0}catch(e){}
+  if(tries>1)return;
+  try{sessionStorage.setItem(key,tries+1)}catch(e){}
+  setC(t);location.reload();
+}
+var l0=want();
+if(MAP[l0])sync(l0);
+else if(getC())setC("");
+var sel=document.getElementById("lang");
+if(sel)sel.addEventListener("change",function(){var l=this.value;if(MAP[l])sync(l);else if(getC()){setC("");try{sessionStorage.clear()}catch(e){}location.reload()}});
+var tm=0;function later(){clearTimeout(tm);tm=setTimeout(retranslate,250)}
+addEventListener("hashchange",later);
+["p-service","caseGrid","svcGrid","capGrid","homeCases"].forEach(function(id){var n=document.getElementById(id);if(n)new MutationObserver(function(){if(MAP[want()])later()}).observe(n,{childList:true})});
+})();
+</script>
 </body></html>
