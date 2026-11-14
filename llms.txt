@@ -1,19 +1,27 @@
 # 9xenai
-
-> 9xenai is an AI consulting, automation and software company based in Dhaka, Bangladesh. It helps organisations in Bangladesh, the Middle East and Europe reduce manual work with fixed-scope AI pilots, governed automation and SLA-backed managed services, starting with a 2 to 3 week AI opportunity assessment.
-
-Website: https://9xenai.online/
-Contact: 9xenaiii@protonmail.com
-Location: Bashundhara R/A, Dhaka-1229, Bangladesh
-Languages: English, Bangla
+> AI consulting, automation and software company based in Dhaka, Bangladesh, serving Bangladesh, the Middle East, Europe and other markets.
 
 ## Key pages
 - [Services](https://9xenai.online/services/)
-- [Pricing](https://9xenai.online/pricing/)
-- [How we deliver](https://9xenai.online/approach/)
-- [About](https://9xenai.online/about/)
-- [Trust and security](https://9xenai.online/security/)
+- [Industries](https://9xenai.online/industries/)
+- [Approach](https://9xenai.online/approach/)
+- [Trust](https://9xenai.online/trust/)
+- [Products](https://9xenai.online/products/)
 - [Contact](https://9xenai.online/contact/)
+- [About](https://9xenai.online/about/)
+- [Cases](https://9xenai.online/cases/)
+- [Insights](https://9xenai.online/insights/)
+- [Sla](https://9xenai.online/sla/)
+- [Global](https://9xenai.online/global/)
+- [Privacy](https://9xenai.online/privacy/)
+- [Terms](https://9xenai.online/terms/)
+- [Ai-Use](https://9xenai.online/ai-use/)
+- [Security](https://9xenai.online/security/)
+- [Nda](https://9xenai.online/nda/)
+- [Dpa](https://9xenai.online/dpa/)
+- [Procurement](https://9xenai.online/procurement/)
+- [Pricing](https://9xenai.online/pricing/)
+- [Enterprise](https://9xenai.online/enterprise/)
 
 ## Services
 - [strategy](https://9xenai.online/services/strategy/)
@@ -42,8 +50,4 @@ Languages: English, Bangla
 - [ops](https://9xenai.online/services/ops/)
 - [finance](https://9xenai.online/services/finance/)
 
-## Facts
-- Pilots are fixed-scope and fixed-price; monthly plans start from $500.
-- Typical pilot: 4 to 6 weeks after a 2 to 3 week assessment.
-- Clients own all code, prompts, configurations and documentation.
-- Assistants work in Bangla, Banglish and English.
+Contact: 9xenaiii@protonmail.com
