@@ -1,53 +1,24 @@
 # 9xenai
-> AI consulting, automation and software company based in Dhaka, Bangladesh, serving Bangladesh, the Middle East, Europe and other markets.
+
+> 9xenai is an AI automation, consulting and software agency based in Dhaka, Bangladesh. It builds WhatsApp and web chatbots, AI voice agents, workflow automation and enterprise AI for businesses in Bangladesh, the USA, Canada, Australia, Europe and the Gulf. Fixed-scope pilots, human-approved automation, prices in US dollars.
+
+Brand name: 9xenai (also written 9xenai AI). Website: https://9xenai.online/
 
 ## Key pages
-- [Services](https://9xenai.online/services/)
-- [Industries](https://9xenai.online/industries/)
-- [Approach](https://9xenai.online/approach/)
-- [Trust](https://9xenai.online/trust/)
-- [Products](https://9xenai.online/products/)
+- [Services](https://9xenai.online/services/): 25 AI practices
+- [Pricing](https://9xenai.online/pricing/): chatbots from $1,000, workflow automation from $1,500, voice agents from $2,000, managed plans from $500 a month
+- [Enterprise assurance](https://9xenai.online/enterprise/)
+- [Service levels](https://9xenai.online/sla/)
 - [Contact](https://9xenai.online/contact/)
-- [About](https://9xenai.online/about/)
-- [Cases](https://9xenai.online/cases/)
-- [Insights](https://9xenai.online/insights/)
-- [Sla](https://9xenai.online/sla/)
-- [Global](https://9xenai.online/global/)
-- [Privacy](https://9xenai.online/privacy/)
-- [Terms](https://9xenai.online/terms/)
-- [Ai-Use](https://9xenai.online/ai-use/)
-- [Security](https://9xenai.online/security/)
-- [Nda](https://9xenai.online/nda/)
-- [Dpa](https://9xenai.online/dpa/)
-- [Procurement](https://9xenai.online/procurement/)
-- [Pricing](https://9xenai.online/pricing/)
-- [Enterprise](https://9xenai.online/enterprise/)
 
-## Services
-- [strategy](https://9xenai.online/services/strategy/)
-- [automation](https://9xenai.online/services/automation/)
-- [experience](https://9xenai.online/services/experience/)
-- [data](https://9xenai.online/services/data/)
-- [software](https://9xenai.online/services/software/)
-- [lab](https://9xenai.online/services/lab/)
-- [chatbots](https://9xenai.online/services/chatbots/)
-- [content](https://9xenai.online/services/content/)
-- [vision](https://9xenai.online/services/vision/)
-- [llm](https://9xenai.online/services/llm/)
-- [training](https://9xenai.online/services/training/)
-- [custom](https://9xenai.online/services/custom/)
-- [platform](https://9xenai.online/services/platform/)
-- [support](https://9xenai.online/services/support/)
-- [governance](https://9xenai.online/services/governance/)
-- [agents](https://9xenai.online/services/agents/)
-- [voice](https://9xenai.online/services/voice/)
-- [sales](https://9xenai.online/services/sales/)
-- [risk](https://9xenai.online/services/risk/)
-- [aisec](https://9xenai.online/services/aisec/)
-- [dataeng](https://9xenai.online/services/dataeng/)
-- [hr](https://9xenai.online/services/hr/)
-- [language](https://9xenai.online/services/language/)
-- [ops](https://9xenai.online/services/ops/)
-- [finance](https://9xenai.online/services/finance/)
-
-Contact: 9xenaiii@protonmail.com
+## Country pages
+- [AI automation agency for United States](https://9xenai.online/usa/)
+- [AI automation agency for Canada](https://9xenai.online/ca/)
+- [AI automation agency for Australia](https://9xenai.online/au/)
+- [AI automation agency for Germany](https://9xenai.online/de/)
+- [AI automation agency for Italy](https://9xenai.online/it/)
+- [AI automation agency for France](https://9xenai.online/fr/)
+- [AI automation agency for European Union](https://9xenai.online/eu/)
+- [AI automation agency for United Arab Emirates](https://9xenai.online/ae/)
+- [AI automation agency for Saudi Arabia](https://9xenai.online/sa/)
+- [AI automation agency for Qatar](https://9xenai.online/qa/)
