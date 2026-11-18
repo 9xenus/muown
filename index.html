@@ -1797,7 +1797,23 @@ function route(){
   var sv=svc?SV[h.slice(8)]:null;
   document.title=svc?(SVT[h.slice(8)]||sv.name)+" | 9xenai":(h==="home"?"9xenai | AI Automation Agency in Dhaka, Bangladesh":titles[h]+" | 9xenai");
   var dsc=svc?(function(t){return t.length>158?t.slice(0,t.lastIndexOf(" ",154)).replace(/[,;:.]$/,"")+"\u2026":t})(sv.name+": "+sv.tag+" Built for "+sv.w.charAt(0).toLowerCase()+sv.w.slice(1)):(h==="services"?DESC[h].replace(/^[A-Za-z0-9-]+ AI practices/,ORDER.length+" AI practices"):DESC[h]);
-  setMeta("description",dsc);setMeta("og:title",document.title,1);setMeta("og:description",dsc,1);setMeta("twitter:title",document.title);setMeta("twitter:description",dsc);
+  /* Keep every virtual page's search and social metadata in sync with its own route. */
+  dsc=String(dsc||"").replace(/\\s+/g," ").trim();
+  if(dsc.length>160){dsc=dsc.slice(0,dsc.lastIndexOf(" ",157)).replace(/[\\s,;:.!?-]+$/,"")+"…"}
+  setMeta("description",dsc);
+  setMeta("og:type","website",1);
+  setMeta("og:site_name","9xenai",1);
+  setMeta("og:title",document.title,1);
+  setMeta("og:description",dsc,1);
+  setMeta("twitter:card","summary_large_image");
+  setMeta("twitter:title",document.title);
+  setMeta("twitter:description",dsc);
+  setMeta("robots","index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1");
+  var canonicalUrl=(function(){var base=(document.querySelector('meta[name="9x-site"]')||{}).content||"https://9xenai.online";base=base.replace(/\/+$/,"");var clean=(document.querySelector('meta[name="9x-clean"]')||{}).content==="1";var route=h==="home"?"":h.indexOf("service-")===0?"services/"+h.slice(8)+"/":h+"/";return clean?base+"/"+route:base+location.pathname+(h==="home"?"":"#"+h)})();
+  var canonical=document.querySelector('link[rel="canonical"]');
+  if(!canonical){canonical=document.createElement("link");canonical.rel="canonical";document.head.appendChild(canonical)}
+  canonical.href=canonicalUrl;
+  setMeta("og:url",canonicalUrl,1);
   var ld=document.getElementById("ld-page");
   if(svc){if(!ld){ld=document.createElement("script");ld.type="application/ld+json";ld.id="ld-page";document.head.appendChild(ld)}
     ld.textContent=JSON.stringify({"@context":"https://schema.org","@type":"Service","name":sv.name,"description":sv.tag,"serviceType":"AI consulting and implementation","provider":{"@type":"Organization","name":"9xenai"},"areaServed":["Bangladesh","United States","International"],"hasOfferCatalog":{"@type":"OfferCatalog","name":sv.name,"itemListElement":sv.d.map(function(x){return {"@type":"Offer","itemOffered":{"@type":"Service","name":x[0],"description":x[1]}}})}})}
